@@ -4,7 +4,8 @@
   "description": "honoring male feminists making the world a better place for everyone",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
